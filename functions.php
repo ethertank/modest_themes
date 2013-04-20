@@ -3365,5 +3365,9 @@ function custom_post_rss_set($query) {
   return $query;
 }
 
+<<<<<<< HEAD
+?>
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
+=======
 ?>
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373

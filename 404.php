@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 <?php
@@ -15,6 +18,10 @@ get_header();
     <h1 class="post-title">Error 404 - Not Found</h1>
   </header>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
 
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
@@ -23,6 +30,7 @@ get_header();
   </div>
 </artcle>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <?php get_footer(); ?>
 =======
@@ -46,6 +54,9 @@ get_header();
 
 <?php get_footer(); ?>
 >>>>>>> コードフォーマット
+=======
+<?php get_footer(); ?>
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
 <?php get_footer(); ?>
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373

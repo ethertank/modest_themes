@@ -5,11 +5,15 @@ Persian WordPress Project : wp-persian.com
 */
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 body,.commentlist li,#commentform input,#commentform textarea,#commentform p,#sidebar,#wp-calendar caption
   {
 =======
 body, .commentlist li, #commentform input, #commentform textarea, #commentform p, #sidebar, #wp-calendar caption {
 >>>>>>> コードフォーマット
+=======
+body, .commentlist li, #commentform input, #commentform textarea, #commentform p, #sidebar, #wp-calendar caption {
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
 body, .commentlist li, #commentform input, #commentform textarea, #commentform p, #sidebar, #wp-calendar caption {
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
@@ -22,7 +26,11 @@ body, .commentlist li, #commentform input, #commentform textarea, #commentform p
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 h1,h2,h3,#sidebar h2 {
+=======
+h1, h2, h3, #sidebar h2 {
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
 h1, h2, h3, #sidebar h2 {
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
@@ -95,7 +103,11 @@ code {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 acronym,abbr,span.caps {
+=======
+acronym,abbr, span.caps {
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
 acronym,abbr, span.caps {
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
@@ -116,17 +128,23 @@ html>body .entry li {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #sidebar ul ul,#sidebar ul ol {
   margin: 5px 10px 0 0;
 }
 
 #sidebar ul ul ul,#sidebar ul ol {
 =======
+=======
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 #sidebar ul ul, #sidebar ul ol {
   margin: 5px 10px 0 0;
 }
 
 #sidebar ul ul ul, #sidebar ul ol {
+<<<<<<< HEAD
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
+=======
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
   margin: 0 10px 0 0;
 }
@@ -173,9 +191,15 @@ blockquote {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #email,#url {
   direction: ltr;
 }
+=======
+#email, #url {
+  direction: ltr;
+}
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
 #email, #url {
   direction: ltr;

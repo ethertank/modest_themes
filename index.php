@@ -323,5 +323,8 @@ DOC;
   </section>
 </article>
 
+<<<<<<< HEAD
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
+=======
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 <?php get_footer(); ?>

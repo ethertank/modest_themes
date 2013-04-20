@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 <?php
@@ -21,9 +24,13 @@ get_header();
 
   <header class="entry-header">
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     <h1 class="post-title"><?php the_title(); ?></h1>
 
+=======
+    <h1 class="post-title"><?php the_title(); ?></h1>
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
     <h1 class="post-title"><?php the_title(); ?></h1>
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
@@ -32,12 +39,18 @@ get_header();
 
   <div class="entry-body">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <?php
       the_content('続きを読む');
     ?>
   </div>
 
 
+=======
+    <?php the_content('続きを読む'); ?>
+  </div>
+
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
     <?php the_content('続きを読む'); ?>
   </div>
@@ -52,6 +65,7 @@ get_header();
 
 </article>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <?php get_footer(); ?>
 =======
@@ -92,6 +106,9 @@ get_header();
 
 <?php get_footer(); ?>
 >>>>>>> コードフォーマット
+=======
+<?php get_footer(); ?>
+>>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
 =======
 <?php get_footer(); ?>
 >>>>>>> ad960d41581d12f97d63efbfcde954c2c64f3373
