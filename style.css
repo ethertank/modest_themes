@@ -36,7 +36,11 @@ img {
   padding: 1px;
   background-color: #fff;
   border: 1px solid #fff;
+<<<<<<< HEAD
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
+=======
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+>>>>>>> コードフォーマット
   -moz-transition: all .5s ease;
   -webkit-transition: all .5s ease;
   -o-transition: all .5s ease;
@@ -80,7 +84,11 @@ a .alignright {
   max-width: 100%;
   margin-bottom: .75em;
   background: #fff;
+<<<<<<< HEAD
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
+=======
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+>>>>>>> コードフォーマット
   padding: 12px;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -117,7 +125,11 @@ h1, h2, h3, h4, h5, h6 {
 /* link */
 a{
   color: #af3232;
+<<<<<<< HEAD
   text-decoration:none;
+=======
+  text-decoration: none;
+>>>>>>> コードフォーマット
 }
 a:hover,a:active{
   color: #872727;
@@ -167,7 +179,11 @@ img::selection {
 /* avatar icon */
 .avatar {
   margin-right: .8em;
+<<<<<<< HEAD
   border: 1px solid rgb(255, 255, 255);
+=======
+  border: 1px solid #fff;
+>>>>>>> コードフォーマット
   border: 1px solid rgba(255, 255, 255, .4);
 }
 .author-link > .avatar,
@@ -204,15 +220,26 @@ img::selection {
 
 /* post's metadata*/
 .postmeta {
+<<<<<<< HEAD
   background: rgb(240, 236, 227);
   background: rgba(0,0,0,.02);
   box-shadow: inset 0 0 3px rgba(0,0,0,.1);
+=======
+  background: #f0ece3;
+  background: rgba(0, 0, 0, .02);
+  box-shadow: inset 0 0 3px rgba(0, 0, 0, .1);
+>>>>>>> コードフォーマット
   padding: 10px;
   margin: 0;
   font-size: .9em;
 }
 .postmeta .postmeta-title {
   display: none;
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> コードフォーマット
 }
 .postmeta .postmeta-content {
   display: inline-block;
@@ -254,7 +281,11 @@ img::selection {
 /* projects list */
 .postmeta-project {
   clear: both;
+<<<<<<< HEAD
   border-bottom: 1px solid rgba(255,255,255,.5);
+=======
+  border-bottom: 1px solid rgba(255, 255, 255, .5);
+>>>>>>> コードフォーマット
   margin: 0;
   padding: 12px 24px 8px;
   background: #fff;
@@ -262,7 +293,11 @@ img::selection {
   background: -webkit-linear-gradient(left, rgba(255,255,255,.75), rgba(255,255,255,.75) 10%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.75) 90%, rgba(255,255,255,.75));
   background: -o-linear-gradient(left, rgba(255,255,255,.75), rgba(255,255,255,.75) 10%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.75) 90%, rgba(255,255,255,.75));
   background: linear-gradient(to right, rgba(255,255,255,.75), rgba(255,255,255,.75) 10%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.75) 90%, rgba(255,255,255,.75));
+<<<<<<< HEAD
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
+=======
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+>>>>>>> コードフォーマット
 }
 .postmeta-project {
   font-size: .785em;
@@ -314,7 +349,11 @@ img::selection {
 .navigation-list-item {
   display: inline-block;
   padding: 0 .7em;
+<<<<<<< HEAD
   border-right: 1px dotted rgb(214, 214, 214);
+=======
+  border-right: 1px dotted #d6d6d6;
+>>>>>>> コードフォーマット
   margin: 0;
 }
 .navigation-list-item:last-child {
@@ -328,6 +367,7 @@ img::selection {
  * blue button style
  */
 .button-blue,.button-blue:link,.button-blue:visited{
+<<<<<<< HEAD
   display:inline-block;
   *display:inline;
   *zoom:1;
@@ -388,6 +428,68 @@ img::selection {
 .button-blue small,.button-blue:link small,.button-blue:visited small{
   text-decoration:none;
   display:block
+=======
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  -moz-border-radius: .25em;
+  border-radius: .25em;
+  -webkit-box-shadow: 0 2px 0 0 rgba(0,0,0,.1), inset 0 -2px 0 0 rgba(0,0,0,.2);
+  -moz-box-shadow: 0 2px 0 0 rgba(0,0,0,.1), inset 0 -2px 0 0 rgba(0,0,0,.2);
+  box-shadow: 0 2px 0 0 rgba(0,0,0,.1), inset 0 -2px 0 0 rgba(0,0,0,.2);
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  padding: 0 24px;
+  height: 48px;
+  line-height: 48px;
+  border: 0;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, .25);
+  font-family: sans-serif;
+  -webkit-transition: all linear .25s;
+  -moz-transition: all linear .25s;
+  -o-transition: all linear .25s;
+  -ms-transition: all linear .25s;
+  transition: all linear .25s;
+  background-color: #276195;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#3c88cc), to(#276195));
+  background-image: -moz-linear-gradient(#3c88cc, #276195);
+  background-image: -ms-linear-gradient(#3c88cc, #276195);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#3c88cc), to(#276195));
+  background-image: -webkit-linear-gradient(#3c88cc, #276195);
+  background-image: -o-linear-gradient(#3c88cc, #276195);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3c88cc',endColorstr='#276195',GradientType='0');
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#3c88cc',endColorstr='#276195',GradientType='0')";
+  background-image: linear-gradient(to bottom, #3c88cc, #276195);
+}
+.button-blue:hover,.button-blue:link:hover,.button-blue:visited:hover{
+  text-decoration: none;
+  -webkit-box-shadow: 0 2px 0 0 rgba(0,0,0,.1), inset 0 -2px 0 0 rgba(0,0,0,.2), inset 0 12px 24px 2px #3089d8;
+  -moz-box-shadow: 0 2px 0 0 rgba(0,0,0,.1), inset 0 -2px 0 0 rgba(0,0,0,.2), inset 0 12px 24px 2px #3089d8;
+  box-shadow: 0 2px 0 0 rgba(0,0,0,.1), inset 0 -2px 0 0 rgba(0,0,0,.2), inset 0 12px 24px 2px #3089d8;
+  -webkit-transition: all linear .25s;
+  -moz-transition: all linear .25s;
+  -o-transition: all linear .25s;
+  -ms-transition: all linear .25s;
+  transition: all linear .25s
+}
+.button-blue:active,.button-blue:link:active,.button-blue:visited:active{
+  text-decoration: none;
+  -webkit-box-shadow: inset 0 2px 0 0 rgba(0,0,0,.2), inset 0 12px 24px 6px rgba(0,0,0,.2), inset 0 0 2px 2px rgba(0,0,0,.2);
+  -moz-box-shadow: inset 0 2px 0 0 rgba(0,0,0,.2), inset 0 12px 24px 6px rgba(0,0,0,.2), inset 0 0 2px 2px rgba(0,0,0,.2);
+  box-shadow: inset 0 2px 0 0 rgba(0,0,0,.2), inset 0 12px 24px 6px rgba(0,0,0,.2), inset 0 0 2px 2px rgba(0,0,0,.2);
+  -webkit-transition: all linear .25s;
+  -moz-transition: all linear .25s;
+  -o-transition: all linear .25s;
+  -ms-transition: all linear .25s;
+  transition: all linear .25s
+}
+.button-blue small,.button-blue:link small,.button-blue:visited small{
+  text-decoration: none;
+  display: block;
+>>>>>>> コードフォーマット
 }
 
 /*
@@ -395,6 +497,7 @@ img::selection {
  * secondary button style
  */
 .button-white,.button-white:link,.button-white:visited{
+<<<<<<< HEAD
   display:inline-block;
   *display:inline;
   *zoom:1;
@@ -454,6 +557,67 @@ img::selection {
   -webkit-box-shadow:0 1px 1px rgba(255,255,255,.75),0 1px 3px rgba(0,0,0,.1) inset;
   -moz-box-shadow:0 1px 1px rgba(255,255,255,.75),0 1px 3px rgba(0,0,0,.1) inset;
   box-shadow:0 1px 1px rgba(255,255,255,.75),0 1px 3px rgba(0,0,0,.1) inset
+=======
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  text-align: center;
+  text-decoration: none;
+  font-family:sans-serif;
+  -webkit-transition: all linear .25s;
+  -moz-transition: all linear .25s;
+  -o-transition: all linear .25s;
+  -ms-transition: all linear .25s;
+  transition: all linear .25s;
+  border: 1px solid #d0d0d0;
+  background: #fff;
+  padding: 0 12px;
+  color: #484848;
+  font-size:12px;
+  height: 24px;
+  line-height: 24px;
+  text-shadow: none;
+  -webkit-box-shadow: 0 0 12px rgba(230,230,230,.2) inset, 0 -2px #e8e8e8 inset;
+  -moz-box-shadow: 0 0 12px rgba(230,230,230,.2) inset, 0 -2px #e8e8e8 inset;
+  box-shadow: 0 0 12px rgba(230,230,230,.2) inset, 0 -2px #e8e8e8 inset;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+.button-white:hover,.button-white:link:hover,.button-white:visited:hover{
+  -webkit-box-shadow: 0 0 12px rgba(230,230,230,.2) inset, 0 -2px #e8e8e8 inset;
+  -moz-box-shadow: 0 0 12px rgba(230,230,230,.2) inset, 0 -2px #e8e8e8 inset;
+  box-shadow: 0 0 12px rgba(230,230,230,.2) inset, 0 -2px #e8e8e8 inset;
+  text-decoration: none;
+  -webkit-transition: all linear .25s;
+  -moz-transition: all linear .25s;
+  -o-transition: all linear .25s;
+  -ms-transition: all linear .25s;
+  transition: all linear .25s
+}
+.button-white:active,.button-white:link:active,.button-white:visited:active{
+  -webkit-box-shadow: inset 0 2px 0 0 rgba(0,0,0,.2), inset 0 12px 24px 6px rgba(0,0,0,.2), inset 0 0 2px 2px rgba(0,0,0,.2);
+  -moz-box-shadow: inset 0 2px 0 0 rgba(0,0,0,.2), inset 0 12px 24px 6px rgba(0,0,0,.2), inset 0 0 2px 2px rgba(0,0,0,.2);
+  box-shadow: inset 0 2px 0 0 rgba(0,0,0,.2), inset 0 12px 24px 6px rgba(0,0,0,.2), inset 0 0 2px 2px rgba(0,0,0,.2);
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all linear .25s;
+  -moz-transition: all linear .25s;
+  -o-transition: all linear .25s;
+  -ms-transition: all linear .25s;
+  transition: all linear .25s
+}
+.button-white small,.button-white:link small,.button-white:visited small{
+  display: block
+}
+.button-white.selected{
+  background: #d7d5d5;
+  border-color: #bcb9b9;
+  text-shadow: 0 1px #fff;
+  -webkit-box-shadow: 0 1px 1px rgba(255,255,255,.75), 0 1px 3px rgba(0,0,0,.1) inset;
+  -moz-box-shadow: 0 1px 1px rgba(255,255,255,.75), 0 1px 3px rgba(0,0,0,.1) inset;
+  box-shadow: 0 1px 1px rgba(255,255,255,.75), 0 1px 3px rgba(0,0,0,.1) inset
+>>>>>>> コードフォーマット
 }
 
 
@@ -464,7 +628,11 @@ img::selection {
 body {
   margin: 0;
   background: url("./images/sandstone/bg-sand.png") repeat-x scroll 0 0 #F5F1E8;
+<<<<<<< HEAD
   border-top: 2px solid rgb(255, 255, 255);
+=======
+  border-top: 2px solid #fff;
+>>>>>>> コードフォーマット
 }
 #page {
   width: 1050px;
@@ -532,7 +700,11 @@ body {
 .header-nav-item > a:hover,
 .header-nav-item > a:visited {
   color: #484848;
+<<<<<<< HEAD
   text-decoration:none;
+=======
+  text-decoration: none;
+>>>>>>> コードフォーマット
 }
 
 /* tabzilla */
@@ -556,6 +728,7 @@ body {
   width: 16px;
   top: 11px;
   right: 23px;
+<<<<<<< HEAD
   -moz-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
   transform: rotate(0deg);
@@ -564,11 +737,25 @@ body {
   -o-transition: all 0.2s ease-in-out;
   -ms-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
+=======
+  -moz-transform: rotate(0);
+  -webkit-transform: rotate(0);
+  transform: rotate(0);
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+>>>>>>> コードフォーマット
   border-radius: 8px;
 }
 */
 #tabzilla {
   background-image: url("./images/tabzilla-tab.png") !important;
+<<<<<<< HEAD
+=======
+  background-repeat: no-repeat;
+>>>>>>> コードフォーマット
 }
 /*
 #tabzilla:after {
@@ -601,15 +788,24 @@ body {
   margin-top: 28px;
 }
 #hottopic-list {
+<<<<<<< HEAD
   background: #fff;
+=======
+  background: url("images/dino.png") no-repeat right 0 #fff;
+>>>>>>> コードフォーマット
   box-shadow: 0 0 0 1px #fff inset;
   border-bottom: 1px solid #ddd;
   padding: 20px;
   margin: 15px 0;
+<<<<<<< HEAD
   background: url("images/dino.png") no-repeat right 0,
               #fff;
   -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+=======
+  -webkit-box-shadow: 0 0 5px 1px rgba(0, 0, 0, .1);
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, .1);
+>>>>>>> コードフォーマット
 }
 .hottopic-item {
   -moz-transition: font-size .5s linear;
@@ -626,6 +822,7 @@ body {
   background: #fff;
   padding: 20px;
   margin: .5em 0 1.5em;
+<<<<<<< HEAD
   -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, .1);
   box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, .1);
 }
@@ -634,6 +831,13 @@ body {
   border-bottom: 1px dotted #000;
   padding-bottom: .3em;
   margin-bottom: 1em;
+=======
+  -webkit-box-shadow: 0 0 5px 1px rgba(0, 0, 0, .1);
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, .1);
+}
+.top-event-section > .event-time {
+  display: inline-block;
+>>>>>>> コードフォーマット
   -moz-transition: font-size .5s linear;
   -webkit-transition: font-size .5s linear;
   -o-transition: font-size .5s linear;
@@ -642,7 +846,10 @@ body {
 }
 .top-event-section > .event-title {
   display: block;
+<<<<<<< HEAD
   font-size: 2.5em;
+=======
+>>>>>>> コードフォーマット
   margin: 0;
   -moz-transition: font-size .5s linear;
   -webkit-transition: font-size .5s linear;
@@ -650,11 +857,14 @@ body {
   -ms-transition: font-size .5s linear;
   transition: font-size .5s linear;
 }
+<<<<<<< HEAD
 #event .posted-year,
 #event .posted-month,
 #event .posted-day {
   font-size: 1.7em;
 }
+=======
+>>>>>>> コードフォーマット
 
 /* archive page */
 .archive-post-title {
@@ -697,7 +907,11 @@ body {
 .projectmeta,
 .eventmeta,
 .authormeta {
+<<<<<<< HEAD
   border-bottom: 1px solid rgba(255,255,255,.5);
+=======
+  border-bottom: 1px solid rgba(255, 255, 255, .5);
+>>>>>>> コードフォーマット
   padding: 10px 20px;
   margin: 0;
   background: #fff;
@@ -705,7 +919,11 @@ body {
   background: -webkit-linear-gradient(left, rgba(255,255,255,.75), rgba(255,255,255,.75) 10%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.75) 90%, rgba(255,255,255,.75));
   background: -o-linear-gradient(left, rgba(255,255,255,.75), rgba(255,255,255,.75) 10%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.75) 90%, rgba(255,255,255,.75));
   background: linear-gradient(to right, rgba(255,255,255,.75), rgba(255,255,255,.75) 10%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.75) 90%, rgba(255,255,255,.75));
+<<<<<<< HEAD
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
+=======
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+>>>>>>> コードフォーマット
 }
 
 .projectmeta .project-icon,
@@ -735,7 +953,11 @@ body {
 }
 .entry-body.project-description {
   padding-bottom: 3em;
+<<<<<<< HEAD
   border-bottom: 1px dotted rgb(204, 204, 204);
+=======
+  border-bottom: 1px dotted #ccc;
+>>>>>>> コードフォーマット
   margin-bottom: 3em;
 }
 
@@ -750,7 +972,11 @@ body {
 .event-section,
 .project-section {
   clear: both;
+<<<<<<< HEAD
   border-bottom: 1px solid rgba(255,255,255,.5);
+=======
+  border-bottom: 1px solid rgba(255, 255, 255, .5);
+>>>>>>> コードフォーマット
   margin: 3em 0;
   padding: 12px 24px 8px;
   background: #fff;
@@ -758,7 +984,11 @@ body {
   background: -webkit-linear-gradient(left, rgba(255,255,255,.75), rgba(255,255,255,.75) 10%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.75) 90%, rgba(255,255,255,.75));
   background: -o-linear-gradient(left, rgba(255,255,255,.75), rgba(255,255,255,.75) 10%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.75) 90%, rgba(255,255,255,.75));
   background: linear-gradient(to right, rgba(255,255,255,.75), rgba(255,255,255,.75) 10%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.75) 90%, rgba(255,255,255,.75));
+<<<<<<< HEAD
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
+=======
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+>>>>>>> コードフォーマット
 }
 .event-header,
 .project-header {
@@ -774,6 +1004,10 @@ body {
 .project-footer .project-icon {
   float: right;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> コードフォーマット
 /* claer fix */
 .project-footer:after {
   content: " ";
@@ -803,7 +1037,11 @@ body {
 }
 
 #sidebar > * {
+<<<<<<< HEAD
   border-bottom: 1px dotted rgb(204, 204, 204);
+=======
+  border-bottom: 1px dotted #ccc;
+>>>>>>> コードフォーマット
 }
 #sidebar-button-group {
   padding: 0;
@@ -818,8 +1056,13 @@ body {
 #sidebar-button-group .button-blue,
 #sidebar-button-group .button-blue:link,
 #sidebar-button-group .button-blue:visited {
+<<<<<<< HEAD
   display:block;
   padding:0 12px;
+=======
+  display: block;
+  padding: 0 12px;
+>>>>>>> コードフォーマット
   font-size: 18px;
 }
 #sidebar-button-group .join {
@@ -848,7 +1091,11 @@ body {
 }
 #sidebar-project-list > li {
   list-style-type: none;
+<<<<<<< HEAD
   border-bottom: 1px dotted rgb(204, 204, 204);
+=======
+  border-bottom: 1px dotted #ccc;
+>>>>>>> コードフォーマット
 }
 #sidebar-project-list a {
   padding: 8px 0;
@@ -864,12 +1111,20 @@ body {
   border: 1px solid #ccc;
   border-radius: 6px;
   font-family: "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+<<<<<<< HEAD
   background: rgba(255,255,255,.8);
+=======
+  background: rgba(255, 255, 255, .8);
+>>>>>>> コードフォーマット
   -webkit-appearance: textfield;
   -moz-appearance: textfield;
   -o-appearance: textfield;
   appearance: textfield;
+<<<<<<< HEAD
   box-shadow: 0 0 0 3px rgba(0,0,0,.02) inset;
+=======
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, .02) inset;
+>>>>>>> コードフォーマット
 }
 #searchform > #searchsubmit {
   display: none;
@@ -887,7 +1142,11 @@ textarea {
   font-size: .857em;
   border: 1px solid #dbdbdb;
   background: transparent;
+<<<<<<< HEAD
   background: rgba(0,0,0,.05);
+=======
+  background: rgba(0, 0, 0, .05);
+>>>>>>> コードフォーマット
   box-shadow: inset rgba(0,0,0,.1) 0 0 4px, rgba(255,255,255, .1) 0 1px 0;
   padding: 6px 10px;
   -moz-transition: all .1s linear;
@@ -903,7 +1162,11 @@ input[type=password]:hover,
 input[type=text]:hover,
 textarea:hover {
   border-color: #bbb;
+<<<<<<< HEAD
   background: rgba(0,0,0,.03);
+=======
+  background: rgba(0, 0, 0, .03);
+>>>>>>> コードフォーマット
 }
 input[type=email]:focus,
 input[type=url]:focus,
@@ -932,7 +1195,11 @@ label .note {
   margin: 0 0 1.5em;
 }
 .pwform br {
+<<<<<<< HEAD
   display:none;
+=======
+  display: none;
+>>>>>>> コードフォーマット
 }
 /************************************************
  * @Comments
@@ -954,10 +1221,17 @@ label .note {
   margin: 0 0 24px;
   background: #fff;
   border: 1px solid #ccc;
+<<<<<<< HEAD
   border-color: rgba(0,0,0,.05);
   -o-box-shadow: 0 1px 1px rgba(0,0,0,.1);
   -ms-box-shadow: 0 1px 1px rgba(0,0,0,.1);
   box-shadow: 0 1px 1px rgba(0,0,0,.1);
+=======
+  border-color: rgba(0, 0, 0, .05);
+  -o-box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+  -ms-box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+>>>>>>> コードフォーマット
 }
 #comment-list .alt {
   background: #f7f7f7;
@@ -996,7 +1270,12 @@ label .note {
   position: absolute;
   left: 19px;
   top: 19px;
+<<<<<<< HEAD
   border: 1px solid #fff; box-shadow: 0 1px 1px rgba(0,0,0,.1);
+=======
+  border: 1px solid #fff;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+>>>>>>> コードフォーマット
   -moz-transition: all .1s linear;
   -webkit-transition: all .1s linear;
   -o-transition: all .1s linear;
@@ -1130,7 +1409,11 @@ label .note {
 
 #comments > .comments-head {
   padding-top: .5em;
+<<<<<<< HEAD
   border-top: 1px dotted rgb(204, 204, 204);
+=======
+  border-top: 1px dotted #ccc;
+>>>>>>> コードフォーマット
   margin-top: 3em;
 }
 
@@ -1192,7 +1475,11 @@ label .note {
   clear: both;
   text-align: center;
   padding: 30px 0 10px;
+<<<<<<< HEAD
   margin:0 auto 0;
+=======
+  margin: 0 auto;
+>>>>>>> コードフォーマット
   -moz-transition: width .5s linear;
   -webkit-transition: width .5s linear;
   -o-transition: width .5s linear;
@@ -1224,10 +1511,13 @@ label .note {
     width: 70%;
   }
 
+<<<<<<< HEAD
   .top-event-section > .event-title {
     font-size: 2.3em;
   }
 
+=======
+>>>>>>> コードフォーマット
   .eventmeta .event-map {
     float: none;
   }
@@ -1269,7 +1559,11 @@ label .note {
   }
   .mozilla_ring_category {
     width: 25%;
+<<<<<<< HEAD
     margin: 2em auto 2em;
+=======
+    margin: 2em auto;
+>>>>>>> コードフォーマット
   }
   .mozilla_ring_category_title {
     margin-bottom: .5em;
@@ -1343,8 +1637,13 @@ label .note {
   #content {
     float: none;
     width: 100%;
+<<<<<<< HEAD
     border-top: 1px dotted rgb(204, 204, 204);
     border-bottom: 1px dotted rgb(204, 204, 204);
+=======
+    border-top: 1px dotted #ccc;
+    border-bottom: 1px dotted #ccc;
+>>>>>>> コードフォーマット
   }
   #content > section {
     margin-bottom: 2.5em;
@@ -1363,9 +1662,12 @@ label .note {
   .top-event-section {
     padding: 10px;
   }
+<<<<<<< HEAD
   .top-event-section > .event-time {
     font-size: .8em;
   }
+=======
+>>>>>>> コードフォーマット
   .top-event-section > .event-title {
     font-size: 1.4em;
   }
@@ -1476,7 +1778,11 @@ label .note {
     float: left;
     width: 40%;
     border: none;
+<<<<<<< HEAD
     margin: 2em auto 2em;
+=======
+    margin: 2em auto;
+>>>>>>> コードフォーマット
   }
   .mozilla_ring_category:last-of-type {
     border: none;
@@ -1492,4 +1798,8 @@ label .note {
   #copyright {
     width: 85%;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> コードフォーマット
